@@ -16,7 +16,34 @@ body {
 
 }
 
+
+
+header {
+    height: 70px;
+    background-color: #fff;
+    line-height: 70px;
+    padding-left: 10px;
+
+}
+
 /*metodo contaniner da impostare all'inizio*/
+
+
+img {
+
+    vertical-align: middle;
+
+}
+
+h1 {
+    display: inline;
+    /*per cambaire inline*/
+    font-size: 32px;
+    font: weight 900px;
+    ;
+
+    vertical-align: middle;
+}
 
 .container {
 
